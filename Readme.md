@@ -1,4 +1,4 @@
-# Dictionary Application
+# Dictionary Application🔻
 
 The **Dictionary Application** is a modern and user-friendly platform for searching, filtering, and exploring word meanings. Built with a sleek UI, it ensures a seamless experience for users across devices. The app allows users to find word definitions, pronunciations, synonyms, and examples efficiently.
 
